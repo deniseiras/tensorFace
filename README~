@@ -1,0 +1,16 @@
+hj = 24/9/19
+apos format do ubuntu, se perdeu o banco mysql em '/var/lib/mysql/'
+foi reinstalado o mysql e movida a pasta do banco de dados para /media/denis/dados/_COM_BACKUP/mysql
+
+utilizado procedimentos  abaixo
+
+para criar banco  
+
+https://dev.mysql.com/doc/mysql-apt-repo-quick-guide/en/#apt-repo-fresh-install
+
+para mover para ~/mysql (para poder fazer backup)
+
+https://www.digitalocean.com/community/tutorials/how-to-move-a-mysql-data-directory-to-a-new-location-on-ubuntu-16-04#targetText=MySQL%20has%20several%20ways%20to,conf.d%2Fmysqld.cnf
+
+
+
