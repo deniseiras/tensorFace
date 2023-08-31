@@ -1,1 +1,6 @@
-# tensorFace
+# Low-cost facial recognition system architecture model
+
+https://www.researchgate.net/publication/372959191_Low-cost_Facial_Recognition_System_Architecture_Model
+
+This article presents a low-cost facial recognition system architecture model, for access control, indoors, that presents mainly the hardware architecture, designed by using optical concepts of camera lenses, camera characteristics, network settings and hardware. The hardware architecture models the environment by proposing equations that delimit the environment. The proposed architecture is proven to be efficient, capable of identify correctly 94% of the faces, in 0.28 seconds each face, from an experiment conducted with 50 people and 9698 images, using 72% of the images for training. To achieve these results, a software architecture that includes Background Subtraction and Viola-Jones Method for detection, Deep Convolution Neural Networks for face recognition and a new method, which filters the best images using luminance based filters, capable of removing 99% of false-positive faces detected by the Viola-Jones algorithm, and significantly improve facial recognition. The hardware architecture proposed details every component and their costs. A comparison of the architecture performance and its costs are made against the most recent literature and the face recognition access control systems of the Brazilian market.
+
